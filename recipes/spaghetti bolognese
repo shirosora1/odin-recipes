@@ -3,12 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <title>Odin recipes</title>
+    <link rel="stylesheet" href="../style.css">
 </head>
 <body>
-    <h1>Spaghetti bolognese</h1>
-    <img src="../img/spaghetti bolognese.jpg" alt="Spaghetti bolognese">
+    <h1 class="main-title">Spaghetti bolognese</h1>
+    <img class="recipe-img" src="../img/spaghetti bolognese.jpg" alt="Spaghetti bolognese">
     <h3>What is Spaghetti bolognese?</h3>
-    <p>A true Italian classic with a meaty sauce served with spaghetti</p>
+    <p class="recipe-desc">A true Italian classic with a meaty sauce served with spaghetti</p>
     <h2>Ingredients</h2>
     <ul>
         <li>16g tomato paste</li>
