@@ -1,4 +1,10 @@
-Body {
+html {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
     font-family: 'Helvetic', 'Arial', sans-serif;
 }
 
@@ -22,5 +28,6 @@ Body {
 }
 
 .recipe-desc {
-    width: 40%;
+    width: 600px;
+    padding: 20px;
 }
